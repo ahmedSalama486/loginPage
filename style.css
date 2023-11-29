@@ -1,0 +1,50 @@
+body {
+    background-image: url(خلفيات-2020-احدث-صور-خلفيات-موبايل-و-لاب-توب-27.jpg);
+    background-position: center center;
+    color: white;
+    background-size: 100%;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.box {
+    width: 60%;
+    margin: 30px auto;
+    border-radius: 10px;
+    padding: 30px;
+    backdrop-filter: blur(7px);
+    border: red 1px solid;
+}
+.login,.dia {
+    text-align: center;
+    color: white;
+    
+}
+input {
+    width: 100%;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: rgb(219, 109, 109);
+    height: 1.7rem;
+}
+.sub , .reg {
+    height: 2em;
+    text-align: center;
+    background-color: transparent;
+    color: white;
+    border: 1px solid red;
+    width:  calc((100% - 30px)/2);
+    font-weight: bold;
+    font-style: italic;
+}
+.tearm {
+    width: 15px;
+    height: 15px;
+    line-height: normal;
+}
+span {
+    text-decoration: underline;
+    color: blue;
+    text-shadow: rgb(202, 184, 184) 0.5px .5px .5px ;
+}
